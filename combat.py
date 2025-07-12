@@ -2,6 +2,8 @@ import time
 import random
 import os
 
+testVariable = True
+
 messageDelay = 0.8
 playerHealth = 20
 enemyHealth = 10
